@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olekopyto
-- 👀 I’m interested in electronics, areospace, philosphy, travel, learning
+- 👀 I’m interested in electronics, aerospace, embedded, travel, learning
 - 🌱 I’m currently learning C++
 - 📫 How to reach me olekopyto1@gmail.com, 
 
